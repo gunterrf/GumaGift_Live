@@ -1,0 +1,19 @@
+*, *::before, *::after {font-size: 0.95rem; box-sizing: border-box; padding: 0px; margin: 0px; /* border: solid blue 2px */}  
+ 
+body {
+  background-color: #542376;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 25vw;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 0.75vw;
+  margin-left: 1rem;
+}
